@@ -1,0 +1,164 @@
+.continerHder{
+    display: flex;
+    justify-content: space-between;
+    padding: 0 100px;
+    margin-bottom: 100px;
+
+}
+.title{
+    margin-top: 150px;
+}
+
+.btn{
+    border-radius: 5px;
+    background: #FD6E0A;
+    width: 100px;
+    height: 34px;
+    color: white;
+    border: none;
+
+}
+body{
+    font-family: Lato;
+}
+
+img{
+    width: 400px;
+    
+}
+.feture{
+ display: flex;
+justify-content: center;
+align-items: center;
+
+}
+.text{
+    text-align: center;
+}
+.imges{
+    display: flex;
+    justify-content: space-between;
+    padding: 0 200px;
+    justify-items: center;
+    align-items: center;
+    /* margin-bottom: 100px; */
+    
+}
+.pic{
+    width: 100px;
+}
+.product{
+    display: flex;
+    justify-content: space-between;
+    padding: 0 200px;
+    justify-items: center;
+    align-items: center;
+    /* margin-top: 100px; */
+
+}
+h4{
+    text-align: center;
+}
+.deal{
+    justify-content: space-between;
+    /* padding: 0 100px; */
+    margin-bottom: 100px;
+
+
+}
+
+.pics{
+width: 318px;
+height: 420px;
+flex-shrink: 0;
+}
+.hotdeal{
+    display: flex;
+    justify-content: space-between;
+    padding: 0 100px;
+    justify-items: center;
+    align-items: center;
+    margin-top: 100px;
+
+}
+.ins{
+    text-align: center;
+}
+.istarm{
+   
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.instam{
+    gap: 20px;
+    margin: 0 100px;
+    display: flex;
+    justify-content: space-between;
+    padding: 0 20px;
+    justify-items: center;
+    align-items: center;
+    margin-top: 100px;
+
+}
+.sobi{
+    /* padding: 20px; */
+    width: 250px;
+    height: 320px;
+
+
+}
+
+.subscribe{
+    margin: 0 90px;
+    margin-top: 130px;
+    background-image: url('../Flower\ Asset/Rectangle 9.png');
+
+}
+.dill{
+
+    padding: 50px 400px;
+}
+.foot{
+    margin: 0 90px;
+    margin-top: 130px;
+    background-color: black;
+    padding: 100px;
+    
+}
+.foots{
+    color: white;
+}
+.FlowerShop{
+    color: rgba(255, 255, 255, 0.90);
+
+    text-align: center;
+}
+h5{
+    color: rgba(255, 255, 255, 0.40);
+    text-align: center;
+    margin-top: 60px;
+}
+.flw{
+    color: #E55473;
+   
+    font-size: 48px;
+}
+.flws{
+    color: #FFF;
+
+    font-size: 48px;
+}
+.btns{
+    border-radius: 5px;
+    background: #FD6E0A;
+ 
+    height: 34px;
+    color: white;
+    border: none;
+
+}
+h5{
+    color: rgb(0, 0, 0)
+}
